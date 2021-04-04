@@ -11,7 +11,7 @@ A Consistent learner and i belive in hard work and likes to learn new things.
     <td><img src="https://profile-counter.glitch.me/sathishmg123/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Work,%20HardWork,%20SmartWork&fontSize=100&animation=blinking&fontColor=00FF00'/>
+<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Work,%0HardWork,%10SmartWork&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
@@ -42,12 +42,12 @@ A Consistent learner and i belive in hard work and likes to learn new things.
 <table>
   <tr>
     <td>Languages</td>
+    <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" alt="java" width="20" height="20" /></td>
     <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></td>
     <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="20" height="20" /></td>
     <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="20" height="20" /></td>
     <td><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></td>
-    <td><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_48x48.png" alt="R" width="20" height="20" /></td>
     <td><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></td>
   </tr>
 </table>
