@@ -13,11 +13,3 @@ You can click the Preview link to take a look at your changes.
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sathishmg123&theme=tokyonight&hide_langs_below=4' align="middle" />
 
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sathishmg123)
-
-
-![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sathishmg123&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
-
-![Visitor Count](https://profile-counter.glitch.me/sathishmg123/count.svg)
-
