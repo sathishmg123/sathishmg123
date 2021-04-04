@@ -30,6 +30,11 @@ A Consistent learner and i belive in hard work and likes to learn new things.
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
 
 
+# 💬 Ask me about:
+- [x] App Development                                      
+- [x] Web Development                                                                 
+- [x] Data Structures and Algorithms                                             
+
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=sathishmg123&theme=onedark' align='center'/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=sathishmg123&theme=chartreuse-dark' align='center'/>
