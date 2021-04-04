@@ -1,5 +1,5 @@
-## Hi there, I'm Shivendra 👋
-A Consistent learner and i belive in hard work.
+## Hi there, I'm M G Sathish 👋
+A Consistent learner and i belive in hard work and likes to learn new things.
 - 👀 I’m interested in problem solving and learning new things related to technology.
 - 🌱 I’m currently learning java and after that i will learn spring for back end.
 - 💞️ I’m looking to collaborate on any organisations who can help me to achieve my career.
@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 ![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sathishmg123&repo=Data-Structure-Algorithm-Programs&theme=great-gatsby)
 
-![Visitor Count](https://profile-counter.glitch.me/skjha1/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sathishmg123/count.svg)
 
