@@ -42,7 +42,7 @@ A Consistent learner and i belive in hard work and likes to learn new things.
 <img src = 'https://github-readme-stats.vercel.app/api?username=sathishmg123&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40' align='center'>
 
 
-# Things I U5E
+# Things I USE
 
 <table>
   <tr>
@@ -61,14 +61,10 @@ A Consistent learner and i belive in hard work and likes to learn new things.
   <tr>
     <td>Operating Systems</td>
     <td><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></td>
-    <td><img height="30" src="https://github.com/sathishmg123/sathishmg123.github.io/blob/main/assets/img/testimonials/pngegg.png" /></td>
-    <td><img height="30" src="https://github.com/sathishmg123/sathishmg123.github.io/blob/main/assets/img/testimonials/Parrot_Logo.png" /></td>
   </tr>
 </table>
 
 <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></code>&nbsp;
-<code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
-<code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
 ### 👯 I’m looking to collaborate on any work
 
