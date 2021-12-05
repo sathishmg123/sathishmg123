@@ -72,15 +72,6 @@ A Consistent learner and i belive in hard work and likes to learn new things.
 <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
 ### 👯 I’m looking to collaborate on any work
 
-<!--
-- - - -
--->
 
-<!--
-- ⚡ Fun fact: I am a Intense Gamer:
-- [X] PS4 (PS5 - are u kiiding me 😄)
-- [X] PC
-- [X] Mobile (Sometimes when Laptop Battery is down OR Electricity Cutoff)
-<!--
 
 
