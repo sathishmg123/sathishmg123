@@ -1,8 +1,8 @@
 ## Hi there, I'm M G Sathish 👋
 A Consistent learner and i belive in hard work and likes to learn new things.
 - 👀 I’m interested in problem solving and learning new things related to technology.
-- 🌱 I’m currently learning java and after that i will learn spring for back end.
-- 💞️ I’m looking to collaborate on any organisations who can help me to achieve my career.
+- 🌱 I’m currently developing problem solving skills.
+- 💞️ I’m looking to collaborate to any organisations.
 - 📫 How to reach me sathishdotmg@gmail.com
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) 
 <table>
